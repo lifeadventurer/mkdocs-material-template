@@ -13,5 +13,5 @@ repos:
     hooks:
       - id: uv-lock
       - id: uv-export
-        args: ["--no-hashes"]
+        args: ["--no-hashes", "--output-file=requirements.txt"]
       - id: uv-sync
