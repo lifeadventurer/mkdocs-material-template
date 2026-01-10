@@ -88,7 +88,7 @@ selectolax==0.4.6
     # via mkdocs-glightbox
 six==1.17.0
     # via python-dateutil
-urllib3==2.6.2
+urllib3==2.6.3
     # via requests
 virtualenv==20.35.4
     # via pre-commit
